@@ -1,4 +1,4 @@
-module.exports = () => {
+module.exports = (db) => {
 
   const getInfo = () => {
     const query = {
